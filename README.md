@@ -1,2 +1,12 @@
 # codealpha_task3
-/codealpha_Project_3_SimpleBankingApplication/
+Simple Banking Application 🏦:
+
+
+✨ Deposit/withdraw funds 💸
+✨ Check balance 📊
+✨ Transaction history 📝
+✨ Exit option 👋
+
+
+Covered OOP, control flow, Scanner class, and data management.
+
